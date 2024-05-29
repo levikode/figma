@@ -1,0 +1,471 @@
+.login .image-1 {
+  border-radius: 100px;
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 28px;
+  width: 84px;
+  height: 83px;
+}
+.login .motorkita {
+  margin: 18px 0 17px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  color: #5196C4;
+}
+.login .group-8 {
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.login .search {
+  margin: 14.2px 9.5px 16px 0;
+  display: inline-block;
+  width: 289.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #CBC7DE;
+}
+.login .group-3 {
+  width: 25.2px;
+  height: 26.6px;
+}
+.login .group-5 {
+  border-radius: 0 25px 25px 0;
+  border: 0.2px solid #000000;
+  background: #F2F3F9;
+  position: relative;
+  display: flex;
+  padding: 11.3px 0;
+  width: 73.9px;
+  height: 49.2px;
+  box-sizing: border-box;
+}
+.login .group-2 {
+  border-radius: 25px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 24px 0 9.8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 0 0px 16.7px;
+  width: 389.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login .group-6 {
+  margin: 23.8px 0 19px 0;
+  width: 40.2px;
+  height: 40.2px;
+}
+.login .nav {
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.25);
+  background: #FBFAFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 7px 32.2px 11.8px 19px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.login .group-12 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 932.5px;
+  height: 1024px;
+}
+.login .saly-10 {
+  background: url('../assets/images/saly_10.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 0 100.2px 978px;
+  width: 182.8px;
+  height: 183.3px;
+}
+.login .membantu-temukan-motor-impian {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 52px;
+  color: rgba(255, 255, 255, 0.83);
+}
+.motorkita-hadir-untuk-temukan-motor-terbaik-bagi-kamu-untuk-dijual-ataupun-dibeli-dengan-sumber-terpercaya {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.login .motorkita-hadir-untuk-temukan-motor-terbaik-bagi-kamu-untuk-dijual-ataupun-dibeli-dengan-sumber-terpercaya {
+  position: absolute;
+  left: 2px;
+  bottom: 6px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.83);
+}
+.login .group-22 {
+  position: relative;
+  margin: 55.2px 0 210px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.login .login-1 {
+  margin-bottom: 38px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+}
+.login .emailcomponentinput-email {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 18px;
+  color: #241C1C;
+}
+.login .container-4 {
+  border-radius: 31.5px;
+  background: #F5F4F2;
+  position: relative;
+  margin-bottom: 22.2px;
+  padding: 20.5px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .passwordcomponentinput-password {
+  margin: 8.5px 11px 8.5px 0;
+  display: inline-block;
+  width: 241.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 18px;
+  color: #241C1C;
+}
+.login .eye {
+  background: url('../assets/images/eye.png') 50% / contain no-repeat;
+  width: 28px;
+  height: 38.9px;
+}
+.login .group-78 {
+  border-radius: 31.5px;
+  background: #F5F4F2;
+  position: relative;
+  margin-bottom: 21.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 22.4px 12px 16px;
+  width: 319px;
+  box-sizing: border-box;
+}
+.login .btn-text {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #F5F4F2;
+}
+.login .login-btnactionloginfirebase-email-password {
+  border-radius: 31.5px;
+  background: #E42C14;
+  position: relative;
+  margin-bottom: 13px;
+  display: flex;
+  padding: 20.5px 0 20.5px 1px;
+  width: 319px;
+  box-sizing: border-box;
+}
+.login .btn-text-2 {
+  margin: 0 0 12px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #0E8BF1;
+}
+.login .btn-text-1 {
+  margin: 0 0 14px 7.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #8F8F8F;
+}
+.login .group {
+  width: 34px;
+  height: 34px;
+}
+.login .social-media-logo {
+  display: flex;
+  width: 34px;
+  height: 34px;
+  box-sizing: border-box;
+}
+.login .group-39 {
+  border-radius: 27.6px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 30px 1.1px 0;
+  display: flex;
+  padding: 10.6px;
+  width: 55.3px;
+  height: 55.3px;
+  box-sizing: border-box;
+}
+.login .social-media-logo-1 {
+  width: 48px;
+  height: 48px;
+}
+.login .group-38 {
+  border-radius: 27.6px;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1.1px;
+  display: flex;
+  padding: 3.6px;
+  width: 55.3px;
+  height: 55.3px;
+  box-sizing: border-box;
+}
+.login .container-6 {
+  margin: 0 0 39.9px 7.5px;
+  display: flex;
+  flex-direction: row;
+  width: 140.5px;
+  box-sizing: border-box;
+}
+.login .dont-have-an-account-yet {
+  margin-right: 8.5px;
+  width: 193px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.login .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  color: #0E8BF1;
+}
+.login .group-74 {
+  margin-right: 0.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 254px;
+  box-sizing: border-box;
+}
+.login .log-in-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 319px;
+  box-sizing: border-box;
+}
+.login .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1296px;
+  box-sizing: border-box;
+}
+.login .log-in {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 4.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12.5px 83px 228.8px 61px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.login .line-6 {
+  background: #BFBFBF;
+  margin-bottom: 35.5px;
+  width: 1427.5px;
+  height: 1px;
+}
+.login .image-11 {
+  border-radius: 100px;
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 28px;
+  width: 84px;
+  height: 83px;
+}
+.login .motorkita-1 {
+  margin: 18px 0 17px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  color: #5196C4;
+}
+.login .group-81 {
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.login .service {
+  margin: 0 5.7px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 22px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.login .dmodel {
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.login .container-3 {
+  margin: 3.3px 0 12.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.login .support {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 22px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.login .about-supply-3-darsitek-com {
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.login .container-2 {
+  margin: 3.6px 0 8.4px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.login .follow-us-on {
+  margin-bottom: 25.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 22px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.login .instagram {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.login .container-5 {
+  margin: 3.3px 0 3px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.login .container-1 {
+  margin: 0 52px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1181.8px;
+  box-sizing: border-box;
+}
+.login .contact-us {
+  margin: 0.1px 11.5px 0 0;
+  display: inline-block;
+  width: 224.7px;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.login .privacy-policy-terms {
+  margin: 0px 0 0.1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.login .facebook {
+  margin-bottom: 0.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.login .container {
+  margin-left: 283.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 647px;
+  box-sizing: border-box;
+}
+.login .footer {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 56.6px 12.5px 121.2px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.login {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

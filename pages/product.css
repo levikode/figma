@@ -1,0 +1,585 @@
+.product .image-11 {
+  border-radius: 100px;
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 28px;
+  width: 84px;
+  height: 83px;
+}
+.product .motorkita-1 {
+  margin: 18px 0 17px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  color: #5196C4;
+}
+.product .group-81 {
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product .search {
+  margin: 14.2px 9.5px 16px 0;
+  display: inline-block;
+  width: 289.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #CBC7DE;
+}
+.product .group-3 {
+  width: 25.2px;
+  height: 26.6px;
+}
+.product .group-5 {
+  border-radius: 0 25px 25px 0;
+  border: 0.2px solid #000000;
+  background: #F2F3F9;
+  position: relative;
+  display: flex;
+  padding: 11.3px 0;
+  width: 73.9px;
+  height: 49.2px;
+  box-sizing: border-box;
+}
+.product .group-2 {
+  border-radius: 25px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 19px 0 14.8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 0px 0px 16.7px;
+  width: 389.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.product .group-6 {
+  margin: 23.8px 0 19px 0;
+  width: 40.2px;
+  height: 40.2px;
+}
+.product .nav {
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.25);
+  background: #FBFAFF;
+  position: relative;
+  margin-bottom: 157.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 7px 32.2px 11.8px 26px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.product .image-9 {
+  border-radius: 6px;
+  border: 1px solid #B4B4B4;
+  background: url('../assets/images/image_9.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 102.7px;
+}
+.product .image-8 {
+  background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+  margin-bottom: 0px;
+  width: 100px;
+  height: 90.1px;
+}
+.product .image-7 {
+  background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+  width: 100px;
+  height: 100px;
+}
+.product .container {
+  margin: 78.3px 53.8px 76px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.product .vector-2 {
+  transform: rotate(90deg);
+  margin: 217.5px 7.7px 218.3px 0;
+  width: 5.8px;
+  height: 11.2px;
+}
+.product .image-27 {
+  background: url('../assets/images/image_27.png') 50% / cover no-repeat;
+  width: 477px;
+  height: 447px;
+}
+.product .group-41 {
+  position: absolute;
+  left: 23.4px;
+  top: 17.7px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product .view-3-d {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+}
+.product .group-42 {
+  border-radius: 6px;
+  background: #C4C4C4;
+  position: relative;
+  margin-top: 207.3px;
+  display: flex;
+  padding: 3.8px 17.2px;
+  box-sizing: border-box;
+}
+.product .vector-1 {
+  transform: rotate(-90deg);
+  margin-bottom: 225.8px;
+  width: 5.8px;
+  height: 11.2px;
+}
+.product .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 376px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.product .group-56 {
+  border-radius: 5px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 84.8px;
+  display: flex;
+  padding: 235.2px 25.1px 27.8px 25.1px;
+  width: 713.7px;
+  box-sizing: border-box;
+}
+.product .mx-king {
+  margin: 0 0.2px 19.7px 0.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 40px;
+  color: #000000;
+}
+.product .dmodel-yamaha-mx-king-dengan-berbagai-warna-biru-merah-putih-dan-hijau {
+  margin: 0 32.2px 85.9px 0px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.product .rp-25000000 {
+  margin-bottom: 43px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 52px;
+  color: #000000;
+}
+.product .buy {
+  margin-right: 21.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.product .group-45 {
+  margin: 5.9px 0;
+  width: 14.7px;
+  height: 15.2px;
+}
+.product .group-43 {
+  border-radius: 6px;
+  background: #E42C14;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 4.9px 12.3px 7px 0;
+  width: 115px;
+  box-sizing: border-box;
+}
+.product .group-54 {
+  margin: 71.7px 0 91.8px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product .group-57 {
+  margin: 0 57.3px 222.8px 57.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product .rekomendasi-lain {
+  margin: 0 8.5px 73.9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 39px;
+  color: #000000;
+}
+.product .vector-41 {
+  transform: rotate(90deg);
+  margin: 94.4px 62.9px 94.8px 0;
+  width: 13.9px;
+  height: 27px;
+}
+.product .image-31 {
+  background: url('../assets/images/image_31.png') 50% / cover no-repeat;
+  margin-bottom: 23px;
+  width: 186px;
+  height: 132px;
+}
+.product .nmax {
+  margin: 0 4px 3px 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.product .rp-30000000 {
+  margin: 0 4px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #269DE0;
+}
+.product .group-82 {
+  box-shadow: 0px 1px 12px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 64.1px 0px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 7.6px 9px 12.6px 8.9px;
+  box-sizing: border-box;
+}
+.product .image-36 {
+  background: url('../assets/images/image_36.png') 50% / cover no-repeat;
+  margin: 0 0 22.7px 1px;
+  width: 171px;
+  height: 128px;
+}
+.product .zx-25-r {
+  margin: 0 0.3px 0.3px 0.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.product .rp-60000000 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #269DE0;
+}
+.product .group-10 {
+  box-shadow: 0px 1px 12px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 58.1px 0px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 15.6px 19.6px 11.6px 12.3px;
+  box-sizing: border-box;
+}
+.product .image-28 {
+  background: url('../assets/images/image_28.png') 50% / cover no-repeat;
+  margin: 0 0 17px 3px;
+  width: 171px;
+  height: 135px;
+}
+.product .cbr {
+  margin-bottom: 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.product .rp-300000001 {
+  margin: 0 3px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #269DE0;
+}
+.product .group-13 {
+  box-shadow: 0px 1px 12px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 57.1px 0px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 5.4px 16.9px 17.8px 12.9px;
+  box-sizing: border-box;
+}
+.product .whats-app-image-20220407-at-15151 {
+  background: url('../assets/images/whats_app_image_20220407_at_15151.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 17.9px;
+  top: 5.5px;
+  right: 15.6px;
+  height: 170.3px;
+}
+.product .harley {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.product .rp-100000000 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #269DE0;
+}
+.product .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.product .group-25 {
+  box-shadow: 0px 1px 12px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0px 70px 0 0;
+  padding: 157.1px 12.3px 21.1px 12.3px;
+  width: 203.9px;
+  box-sizing: border-box;
+}
+.product .vector-31 {
+  transform: rotate(-90deg);
+  margin: 94.4px 0 94.8px 0;
+  width: 13.9px;
+  height: 27px;
+}
+.product .group-47 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product .group-58 {
+  margin: 0 142.2px 133.5px 142.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.product .line-6 {
+  background: #BFBFBF;
+  margin-bottom: 38.8px;
+  width: 1427.5px;
+  height: 1px;
+}
+.product .service {
+  margin: 0 14px 0.3px 0;
+  display: inline-block;
+  width: 223.1px;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 22px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.product .support {
+  margin-top: 0.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 22px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.product .follow-us-on {
+  margin-bottom: 0.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 22px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.product .container-4 {
+  margin: 0 0 15.7px 337.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 702.6px;
+  box-sizing: border-box;
+}
+.product .dmodel {
+  margin: 0 11.5px 9.7px 0;
+  display: inline-block;
+  width: 225.6px;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.product .about-supply-3-darsitek-com {
+  margin: 4.3px 0 5.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.product .instagram {
+  margin-top: 9.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.product .container-3 {
+  margin: 0 0 2.7px 287.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 652.8px;
+  box-sizing: border-box;
+}
+.product .contact-us {
+  margin: 0.1px 11.5px 0 0;
+  display: inline-block;
+  width: 224.7px;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.product .privacy-policy-terms {
+  margin: 0px 0 0.1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.product .facebook {
+  margin-bottom: 0.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #434343;
+}
+.product .container-5 {
+  margin-left: 283.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 647px;
+  box-sizing: border-box;
+}
+.product .group-49 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1427.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.product .image-1 {
+  border-radius: 100px;
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 28px;
+  width: 84px;
+  height: 83px;
+}
+.product .motorkita {
+  margin: 18px 0 17px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  color: #5196C4;
+}
+.product .group-8 {
+  border-radius: 100px;
+  position: absolute;
+  left: 61px;
+  top: 99.3px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.product .footer {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 37.8px 12.5px 121.2px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.product {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #F3F3F7;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  box-sizing: border-box;
+}
